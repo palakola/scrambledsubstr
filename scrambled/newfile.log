@@ -1,0 +1,45 @@
+2022-07-20 22:53:17,283 the given dictionary are 
+2022-07-20 22:53:17,283 ['axpaj', 'apxaj', 'dnrbt', 'pjxdn', 'abd']
+2022-07-20 22:53:17,283 the given input file is 
+2022-07-20 22:53:17,283 aapxjdnrbtvldptfzbbdbbzxtndrvjblnzjfpvhdhhpxjdnrbt
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with axpaj
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 ['aapxj']
+2022-07-20 22:53:17,283 number matched scrambles substrs are 1
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with apxaj
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 ['aapxj']
+2022-07-20 22:53:17,283 number matched scrambles substrs are 1
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with dnrbt
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 ['dnrbt', 'dnrbt']
+2022-07-20 22:53:17,283 number matched scrambles substrs are 1
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with pjxdn
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 ['pxjdn', 'pxjdn']
+2022-07-20 22:53:17,283 number matched scrambles substrs are 1
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with abd
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 []
+2022-07-20 22:53:17,283 number matched scrambles substrs are 0
+2022-07-20 22:53:17,283 Case #1:4
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with axpaj
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 ['aapxj']
+2022-07-20 22:53:17,283 number matched scrambles substrs are 1
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with axpaj
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 ['aapxj']
+2022-07-20 22:53:17,283 number matched scrambles substrs are 1
+2022-07-20 22:53:17,283 *****************
+2022-07-20 22:53:17,283 finding substring with dnrbt
+2022-07-20 22:53:17,283 matching with starting and ending character 
+2022-07-20 22:53:17,283 ['dnrbt', 'dnrbt']
+2022-07-20 22:53:17,283 number matched scrambles substrs are 1
